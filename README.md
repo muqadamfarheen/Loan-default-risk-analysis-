@@ -32,7 +32,9 @@ Loan Amount: Higher loan amounts were moderately associated with increased risk
 The analysis revealed several important insights:
 High-Risk Segments:
 -Borrowers with less than 600 credit score were most likely to default.
-
+### 1. Credit Score vs Default Risk
+![Credit Score Risk](https://raw.githubusercontent.com/muqadamfarheen/Loan-default-risk-analysis-/main/Images/Credit_score_risk.png)
+*Figure: Credit score distribution vs default risk*
 
 
 
