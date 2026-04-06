@@ -79,11 +79,11 @@ High loan amounts contributed to increased risk but were less impactful than cre
 
 ### Recommendations
 Based on the findings, the following actions are recommended:
-Minimum credit score requirement set at 600 to ensure baseline creditworthiness.
-Maximum Debt-to-Income (DTI) ratio capped at 40% to maintain manageable borrower leverage
-Applicants must have a minimum of 2 years of stable employment to demonstrate income consistency.
-Conduct enhanced verification for loans related to wedding, home improvement and auto purposes to ensure lower default risk.
-Implement stricter due diligence for high-value loan amounts including additional income and repayment capacity checks
+- Minimum credit score requirement set at 600 to ensure baseline creditworthiness.
+- Maximum Debt-to-Income (DTI) ratio capped at 40% to maintain manageable borrower leverage
+- Applicants must have a minimum of 2 years of stable employment to demonstrate income consistency.
+- Conduct enhanced verification for loans related to wedding, home improvement and auto purposes to ensure lower default risk.
+- Implement stricter due diligence for high-value loan amounts including additional income and repayment capacity checks
 
 ### Conclusion
 This loan default risk analysis provides valuable insights into borrower behavior and key factors influencing defaults. By leveraging data-driven strategies and implementing targeted risk management practices, financial institutions can reduce default rates, improve portfolio quality, and enhance overall profitability.
