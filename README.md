@@ -40,7 +40,9 @@ High-Risk Segments:
 
 -Borrowers with high debt to income ratio were most likely to default .
 
-
+### 2. DTI Ratio vs Default Risk
+![DTI Risk](https://raw.githubusercontent.com/muqadamfarheen/Loan-default-risk-analysis-/main/Images/DTI_risk.png)
+*Figure: Debt-to-Income ratio impact on default probability*
 
 
 
@@ -50,29 +52,17 @@ High-Risk Segments:
 
 
 -Borrowers with short employment i.e less than 2 years employment history were most likely to default on a loan
-
-
-
-
-
-
+### 5. Employment Length vs Default Risk
+![Employment Risk](https://raw.githubusercontent.com/muqadamfarheen/Loan-default-risk-analysis-/main/Images/short_employment_risk.png)
+*Figure: Impact of short employment duration on default risk*
 
 
 
 -The top three loan categories with the highest default rates are wedding loans, home improvement loans, and auto loans.
 
-
-
-
-
-
-
-
-
-
-
-
-
+### 4. Loan Purpose vs Default Risk
+![Loan Purpose Risk](https://raw.githubusercontent.com/muqadamfarheen/Loan-default-risk-analysis-/main/Images/loan_pupose_risk.png)
+*Figure: Default trends across different loan purposes*
 
 
 
@@ -82,12 +72,9 @@ Moderate Risk Factors:
 High loan amounts contributed to increased risk but were less impactful than credit history
 
 
-
-
-
-
-
-
+### 3. Loan Amount vs Default Risk
+![Loan Amount Risk](https://raw.githubusercontent.com/muqadamfarheen/Loan-default-risk-analysis-/main/Images/loan_amount_risk.png)
+*Figure: Relationship between loan amount and default risk*
 
 
 ### Recommendations
