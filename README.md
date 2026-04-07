@@ -1,5 +1,12 @@
 <h1 align="center">Loan-default-risk-analysis</h1>
 <h4 align="center">Python|Excel|Analysis</h4>
+# 📊 Loan Default Risk Analysis
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Analysis-217346?logo=microsoft-excel&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Analysis-green)
+![Finance](https://img.shields.io/badge/Domain-Finance-orange)
+![Risk Analytics](https://img.shields.io/badge/Focus-Risk%20Analytics-red)
 
 ### PROBLEM STATEMENT
 
