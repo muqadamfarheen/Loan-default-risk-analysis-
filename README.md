@@ -1,4 +1,4 @@
-<h1 align="center">⭐ End-to-End Data Analytics Project</h1>
+<h3 align="center">⭐ End-to-End Data Analytics Project</h3>
 <h1 align="center">📊 LOAN DEFAULT RISK ANALYSIS</h1>
 
 <p align="center">
@@ -38,7 +38,8 @@ The dataset was cleaned, processed, and analyzed using tools such as Excel, Pyth
 Key metrics analyzed include:
 - Default Rate: Overall default rate stood at 24% across the portfolio
 - Credit Score Impact: Borrowers with scores below 600 had a higher default rate
-- DTI impact: Borrowers with high DTI ratio had higher default rate
+- DTI impact: Borrowers with DTI ratio more than 40% had higher default rate
+- Employment impact: borrowers with employment years less than 2 years shown higher default rate
 - Loan purpose impact: wedding, home improvement and auto loan are top 3 categories to default on loan
 - Loan Amount: Higher loan amounts were moderately associated with increased risk
 
@@ -49,8 +50,6 @@ High-Risk Segments:
 ### Credit Score vs Default Risk
 ![Credit Score Risk](https://raw.githubusercontent.com/muqadamfarheen/Loan-default-risk-analysis-/main/Images/Credit_score_risk.png)
 *Figure: Credit score distribution vs default risk*
-
-
 
 -Borrowers with high debt to income ratio were most likely to default .
 
